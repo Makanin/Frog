@@ -22,7 +22,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Apply the 80/20 Rule",
     achievements: [
       "Делай важное в первую очередь",
@@ -31,7 +31,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Consider the Consequences",
     achievements: [
       "Думай о долгосрочных результатах",
@@ -39,7 +39,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Practice Creative Procrastination",
     achievements: [
       "Откладывай второстепенное",
@@ -47,7 +47,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Use ABCDE Method",
     achievements: [
       "Расставляй приоритеты по методу ABCDE",
@@ -55,7 +55,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Focus on Key Result Areas",
     achievements: [
       "Развивай ключевые зоны ответственности",
@@ -63,7 +63,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Law of Three",
     achievements: [
       "Определи 3 главные задачи",
@@ -71,7 +71,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Prepare Thoroughly",
     achievements: [
       "Подготовь всё заранее",
@@ -79,7 +79,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "One Step at a Time",
     achievements: [
       "Разбей задачи на маленькие шаги",
@@ -87,7 +87,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Upgrade Skills",
     achievements: [
       "Учись систематически",
@@ -95,7 +95,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Use Your Talents",
     achievements: [
       "Используй свои сильные стороны",
@@ -103,7 +103,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Remove Constraints",
     achievements: [
       "Устраняй препятствия",
@@ -111,7 +111,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Pressure Yourself",
     achievements: [
       "Ставь жёсткие сроки",
@@ -119,7 +119,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Personal Energy",
     achievements: [
       "Поддерживай здоровье и энергию",
@@ -127,7 +127,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Motivate Yourself",
     achievements: [
       "Визуализируй цели",
@@ -135,7 +135,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Kill Tech Noise",
     achievements: [
       "Минимизируй отвлечения",
@@ -143,7 +143,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Slice Tasks",
     achievements: [
       "Делай задачи по частям",
@@ -151,7 +151,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Time Blocks",
     achievements: [
       "Выделяй большие блоки для работы",
@@ -159,7 +159,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Sense of Urgency",
     achievements: [
       "Делай всё сразу",
@@ -167,7 +167,7 @@ const chapters = [
     ]
   },
   {
-    heroName: "Клава Така-то",
+    heroName: "",
     chapterTitle: "Single Handle",
     achievements: [
       "Работай над одной задачей до конца",
