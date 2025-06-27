@@ -261,10 +261,3 @@ document.getElementById('next-btn').addEventListener('click', () => {
   showModal(currentIndex);
 });
 
-
-
-
-
-
-
-
